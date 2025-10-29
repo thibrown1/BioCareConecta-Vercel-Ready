@@ -23,6 +23,6 @@
       "dest": "client/index.html"
     }
   ],
-  "installCommand": "pnpm install",
+  "installCommand": "pnpm install --no-frozen-lockfile",
   "buildCommand": "pnpm run build"
 }
